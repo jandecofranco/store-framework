@@ -60,7 +60,7 @@
     "props": {
       "initialSelection": "empty",
       "showValueForVariation": true,
-      "showVariationsLabels": true,
+      "skuSelectorName": true,
       "showVariationsErrorMessage": true
     }
   },
