@@ -20,6 +20,7 @@
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png",
       "isFullModeStyle": true,
+      "maxHeight": 24,
       "headline": "Black Friday",
       "callToActionText": "Subscribe",
       "textPosition": "center"
@@ -30,6 +31,7 @@
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square2.png",
       "isFullModeStyle": true,
+      "maxHeight": 24,
       "headline": "Black Friday",
       "callToActionText": "Subscribe",
       "textPosition": "center"
@@ -40,6 +42,7 @@
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square3.png",
       "isFullModeStyle": true,
+      "maxHeight": 24,
       "headline": "Black Friday",
       "callToActionText": "Subscribe",
       "textPosition": "center"
@@ -50,6 +53,7 @@
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square4.png",
       "isFullModeStyle": true,
+      "maxHeight": 24,
       "headline": "Black Friday",
       "callToActionText": "Subscribe",
       "textPosition": "center"
@@ -60,6 +64,7 @@
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square5.png",
       "isFullModeStyle": true,
+      "maxHeight": 24,
       "headline": "Black Friday",
       "callToActionText": "Subscribe",
       "textPosition": "center"
@@ -70,6 +75,7 @@
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png",
       "isFullModeStyle": true,
+      "maxHeight": 24,
       "headline": "Black Friday",
       "callToActionText": "Subscribe",
       "textPosition": "center"
