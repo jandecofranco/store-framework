@@ -10,7 +10,6 @@
   }, 
   "info-card#button-right": {
     "props": {
-      "id": "info-card-example",
       "isFullModeStyle": false,
       "textPosition": "right",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
