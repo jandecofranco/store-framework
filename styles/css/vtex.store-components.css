@@ -22,7 +22,7 @@
 .infoCardContainer{
     width: 1260px;
     max-width: 1260px;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     font-family: serif;
     font-size: 2.25rem;
