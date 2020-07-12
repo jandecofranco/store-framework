@@ -19,7 +19,7 @@
       "search-fetch-more"
     ],
     "props": {
-      "preventRouteChange": true
+      "pagination": "show-more"
     }
   }  
 }
