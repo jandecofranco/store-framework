@@ -7,7 +7,7 @@
       "slider-layout#home",
       "responsive-layout.desktop#desktop",
       "responsive-layout.mobile#mobile",
-      "search-result-layout.customQuery#home"
+      "search-result-layout.desktop"
     ]
   }, 
   "info-card#button-right": {
@@ -115,7 +115,7 @@
       "alt": "Coffee Makers Collection"
     }
   },
-  "search-result-layout.customQuery#home": {
+  "search-result-layout.desktop": {
     "props": {
       "querySchema": {
         "skusFilter": "FIRST_AVAILABLE",
