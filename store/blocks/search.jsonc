@@ -1,15 +1,13 @@
 {
   "store.search": {
-    "blocks": ["search-result-layout"]    
+    "blocks": ["search-result-layout"]
   },
   "search-result-layout": {
-    "blocks": [
-       "search-result-layout.desktop"
-    ]
- },
+    "blocks": ["search-result-layout.desktop"]
+  },
   "search-result-layout.desktop": {
     "children": [
-      "breadcrumb",
+      "breadcrumb.search",
       "search-title.v2",
       "total-products.v2",
       "order-by.v2",
@@ -21,5 +19,5 @@
     "props": {
       "pagination": "show-more"
     }
-  }  
+  }
 }
