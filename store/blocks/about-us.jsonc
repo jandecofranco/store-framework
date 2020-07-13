@@ -1,43 +1,30 @@
 {
-  "store.product": {
-    "children": ["store.custom#about-us"]
-  },
   "store.custom#about-us": {
-    "children": [
-      "flex-layout.row#about-us"
-    ]
+    "children": ["flex-layout.row#about-us"]
   },
-  "flex-layout.row#about-us": {
-    "children": [
-      "image#about-us",
-      "flex-layout.col#text-about-us"
-    ]
+  " flex-layout.row#about-us ": {
+    " children ": [" image#about-us ", " flex-layout.col#text-about-us "]
   },
-  "flex-layout.col#text-about-us": {
-    "children": [
-      "rich-text#about-title",
-      "rich-text#about-content"
-    ],
-        "props": {
-      "preventVerticalStretch": true
+  " flex-layout.col#text-about-us ": {
+    " children ": [" rich-text#about-title ", " rich-text#about-content "],
+    " props ": {
+      " preventVerticalStretch ": true
     }
   },
- "rich-text#about-title": {
-    "props": {
-      "text":
-      "# About FlatFlat"
+  " rich-text#about-title ": {
+    " props ": {
+      " text ": " # sobre o FlatFlat "
     }
   },
-  "rich-text#about-content": {
-    "props": {
-      "text":
-      " FlatFlat is an electronics store with a long standing tradition for creating modern and vintage items. Out objective is to create home appliances that make your house stand out, no matter your style. Merely 2 months old, we're already the store with the most beautiful products among all VTEX stores. We are currently building our site with the aim of giving our customers an unforgetable experience with our brand!"
+  " rich-text#about-content ": {
+    " props ": {
+      " text ": " FlatFlat é uma loja de eletrônicos com longa tradição em criar itens modernos e antigos. Nosso objetivo é criar eletrodomésticos que deixem sua casa em pé fora, independentemente do seu estilo. Com apenas 2 meses, já somos a loja com os produtos mais bonitos entre todas as lojas VTEX. Atualmente, estamos construindo nosso site com o objetivo de proporcionar aos nossos clientes uma experiência inesquecível com a nossa marca! "
     }
   },
-  "image#about-us": {
-    "props": {
-      "src": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-about-us.png",
-      "maxHeight": "600px"
+  " image#about-us ": {
+    " props ": {
+      " src ": " https://appliancetheme.vteximg.com.br/arquivos/cozinha-about-us.png ",
+      " maxHeight ": " 600px "
     }
   }
 }
