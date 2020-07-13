@@ -3,28 +3,36 @@
     "blocks": ["flex-layout.row#about-us"]
   },
   "flex-layout.row#about-us": {
-    "blocks": ["image#about-us", "flex-layout.col#text-about-us"]
+    "children": [
+      "image#about-us",
+      "flex-layout.col#text-about-us"
+    ]
   },
   "flex-layout.col#text-about-us": {
-    "children": ["rich-text#about-title", "rich-text#about-content"],
-    "props": {
+    "children": [
+      "rich-text#about-title",
+      "rich-text#about-content"
+    ],
+        "props": {
       "preventVerticalStretch": true
     }
   },
-  "rich-text#about-title": {
+ "rich-text#about-title": {
     "props": {
-      "text": " # sobre o FlatFlat "
+      "text":
+      "# About us Title"
     }
   },
   "rich-text#about-content": {
     "props": {
-      "text": " FlatFlat é uma loja de eletrônicos com longa tradição em criar itens modernos e antigos. Nosso objetivo é criar eletrodomésticos que deixem sua casa em pé fora, independentemente do seu estilo. Com apenas 2 meses, já somos a loja com os produtos mais bonitos entre todas as lojas VTEX. Atualmente, estamos construindo nosso site com o objetivo de proporcionar aos nossos clientes uma experiência inesquecível com a nossa marca! "
+      "text":
+      " About us content - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
     }
   },
   "image#about-us": {
     "props": {
-      "src": " https://appliancetheme.vteximg.com.br/arquivos/cozinha-about-us.png ",
-      "maxHeight": " 600px "
+      "src": "https://storecomponents.vteximg.com.br/arquivos/mobile-phone.png",
+      "maxHeight": "600px"
     }
   }
 }
