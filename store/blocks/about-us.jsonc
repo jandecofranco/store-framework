@@ -3,7 +3,7 @@
     "blocks": ["flex-layout.row#about-us"]
   },
   "flex-layout.row#about-us": {
-    "children": ["image#about-us", "flex-layout.col#text-about-us"]
+    "blocks": ["image#about-us", "flex-layout.col#text-about-us"]
   },
   "flex-layout.col#text-about-us": {
     "children": ["rich-text#about-title", "rich-text#about-content"],
