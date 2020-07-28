@@ -10,7 +10,7 @@
       "responsive-layout.mobile#mobile",
       "search-result-layout.desktop"
     ]
-  }, 
+  },  
   "rich-text": {
     "props": {
       "text": "*Hello, World!*",
